@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -7,12 +6,12 @@
     letter-spacing: -.15px;
 }
 
-.head{
+.head {
     box-shadow: 0 2px 4px 0px rgb(0 0 0 / 7%);
     padding-bottom: 40px;
 }
 
-.logo{
+.logo {
     float: left;
     margin: 0;
     padding: 0px 80px;
@@ -20,7 +19,7 @@
     cursor: pointer;
 }
 
-.head-upper{
+.head-upper {
     display: flex;
     justify-content: space-between;
     margin-right: 88px;
@@ -28,18 +27,18 @@
     gap: 20px;
 }
 
-.head-upper p{
+.head-upper p {
     font-size: 14px;
     font-weight: 400;
     cursor: pointer;
 }
 
-.head-upper a{
+.head-upper a {
     color: hsl(212, 100%, 50%);
     font-size: 14px;
 }
 
-.head-upper button{
+.head-upper button {
     padding: 6px 24px 13px 24px;
     border: none;
     background: #ffbb0e;
@@ -49,53 +48,53 @@
     cursor: pointer;
 }
 
-.head-lower{
+.head-lower {
     display: flex;
     justify-content: flex-start;
-    gap: 20px; 
+    gap: 20px;
 }
 
-.head-lower h3{
+.head-lower h3 {
     font-size: 16px;
     font-weight: 400;
     cursor: pointer;
 }
 
-.rib{
+.rib {
     display: flex;
     justify-content: flex-start;
     margin: 100px;
 }
 
-.rib-image img{
+.rib-image img {
     width: 720px;
     height: auto;
 }
 
-.rib-content{
+.rib-content {
     padding-left: 22px;
 }
 
-.rib-heading{
+.rib-heading {
     font-size: 32px;
     font-weight: 800;
     padding-bottom: 15px;
 }
 
-.rib-middle{
+.rib-middle {
     font-size: 15px;
     padding-bottom: 15px;
     width: 360px;
     line-height: 1.5;
 }
 
-.rib-discription{
+.rib-discription {
     font-size: 10px;
     width: 370px;
     padding-bottom: 40px;
 }
 
-.rib-button{
+.rib-button {
     padding: 10px 25px 16px 25px;
     margin-top: 10px;
     border: none;
@@ -106,10 +105,69 @@
     cursor: pointer;
 }
 
-.rib-button.cheese{
+.rib-button.cheese {
     padding: 10px 40px 16px 40px;
 }
 
-.rib a{
+.rib a {
     color: hsl(212, 100%, 50%);
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0 100px;
+}
+
+.heading {
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.aboutus {
+    padding-right: 140px;
+    line-height: 1.7;
+}
+
+.services {
+    padding-right: 140px;
+    line-height: 1.7;
+}
+
+.community {
+    padding-right: 130px;
+    line-height: 1.7;
+}
+
+.contactus {
+    line-height: 1.7;
+}
+
+.social {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 82px;
+    padding: 0px 17px 41px 17px;
+    box-shadow: 0px 1px 1px 0px rgb(0 0 0 / 18%);
+}
+
+.links img{
+    padding: 0 8px;
+}
+
+.Foooter-final{
+    padding-bottom: 50px;
+}
+
+.final-first{
+    display: flex;
+    justify-content:space-between;
+    margin: 30px 120px;
+}
+
+.final-second{
+    display: flex;
+    justify-content: flex-start;
+    margin: 30px 120px;
+    gap: 40px;
 }

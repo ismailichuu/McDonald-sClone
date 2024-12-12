@@ -95,7 +95,7 @@
     padding-bottom: 40px;
 }
 
-.rib-content button{
+.rib-button{
     padding: 10px 25px 16px 25px;
     margin-top: 10px;
     border: none;
@@ -104,4 +104,12 @@
     font-weight: 400;
     font-size: 15px;
     cursor: pointer;
+}
+
+.rib-button.cheese{
+    padding: 10px 40px 16px 40px;
+}
+
+.rib a{
+    color: hsl(212, 100%, 50%);
 }

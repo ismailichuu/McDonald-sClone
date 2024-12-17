@@ -1,1 +1,1 @@
-Website link: https://ismailichuu.github.io/McDonald-sClone/Index.html
+Website link: https://ismailichuu.github.io/McDonald-sClone/
